@@ -20,7 +20,8 @@ class SettingsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("this is Ipad settings")
+        print("This is Apple settings")
+
         title = "Settings"
         configure()
         view.addSubview(tableView)
