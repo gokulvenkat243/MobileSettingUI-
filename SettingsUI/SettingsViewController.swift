@@ -20,8 +20,10 @@ class SettingsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("This is Mobile settings")
-        print("Android")
+
+        print("This is Apple settings")
+        print("IOS")
+
         title = "Settings"
         configure()
         view.addSubview(tableView)
