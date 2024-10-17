@@ -107,7 +107,8 @@ extension SettingsViewController: UITableViewDelegate, UITableViewDataSource {
         navigationController?.pushViewController(vc, animated: true)
     }
     
-    func mobileSettings() {
-        print("Mobile")
+
+    func laptopSettings() {
+        print("Laptop")
     }
 }
