@@ -87,7 +87,7 @@ class SwitchTableViewCell: UITableViewCell {
         _switch.isOn = model.isOn
     }
     
-    func android() {
-        
+
+    func android() {        
     }
 }
