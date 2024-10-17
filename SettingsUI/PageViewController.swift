@@ -16,6 +16,16 @@ class PageViewController: UIViewController {
     }
     
     func mobileSettings() {
+  
+    }
+    
+    
+    
+    
+    
+    
+    func laptopSettings() {
+    
         
     }
 }
