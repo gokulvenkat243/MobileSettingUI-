@@ -15,4 +15,14 @@ class PageViewController: UIViewController {
         title = "Mobile Settings"
     }
     
+    
+    
+    
+    
+    
+    
+    
+    func laptopSettings() {
+        
+    }
 }
