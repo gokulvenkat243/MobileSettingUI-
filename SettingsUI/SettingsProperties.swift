@@ -32,6 +32,11 @@ struct SettingsOptions {
     let handler: (() -> Void)
 }
 
+
 struct MobileSetting {
     let mobile: String
+}
+
+struct LaptopSettings {
+    let laptop: String
 }
