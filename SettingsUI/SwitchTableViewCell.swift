@@ -86,4 +86,8 @@ class SwitchTableViewCell: UITableViewCell {
         label.text = model.title
         _switch.isOn = model.isOn
     }
+    
+    func ios() {
+        
+    }
 }
