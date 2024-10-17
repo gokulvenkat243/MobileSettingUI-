@@ -31,3 +31,7 @@ struct SettingsOptions {
     let iconBackgroundColor: UIColor
     let handler: (() -> Void)
 }
+
+struct MobileSetting {
+    let mobile: String
+}
